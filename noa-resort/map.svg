@@ -1,0 +1,205 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1330" width="1600" height="1330">
+<style>
+.sea{fill:#7fc8d6}.beach{fill:#f2dfb0}.land{fill:#dfe9cf;stroke:#b9c9a4;stroke-width:3;stroke-linejoin:round}
+.park{fill:#7bb662;stroke:#5e9a49;stroke-width:2}.lawn{fill:#9ccc7f}
+.pool{fill:#38b6e8;stroke:#1d8fc0;stroke-width:3}
+.path{fill:none;stroke:#f7f3ea;stroke-width:16;stroke-linecap:round;stroke-linejoin:round}
+.room{fill:#c8553d;stroke:#8f3524;stroke-width:2}
+.fac{fill:#7b5ea7;stroke:#553f7a;stroke-width:2}
+.lobby{fill:#e08a3c;stroke:#a85f1f;stroke-width:2}
+.gate{fill:#ffd23f;stroke:#7a5c00;stroke-width:3}.staff{fill:#e63946;stroke:#7a0010;stroke-width:3}.bar{fill:#7b5ea7;stroke:#fff;stroke-width:3}
+text{font-family:'Segoe UI',Roboto,Arial,sans-serif;text-anchor:middle;dominant-baseline:middle;stroke-linejoin:round}
+.area{font-size:34px;font-weight:800;fill:#fff;stroke:#3f7a2e;stroke-width:5;letter-spacing:4px}
+.pooltxt{font-size:19px;font-weight:800;fill:#fff;stroke:#0b6b94;stroke-width:4}
+.fact{font-size:15px;font-weight:700;fill:#fff;stroke:#2e1f47;stroke-width:3}
+.num{font-size:13px;font-weight:700;fill:#fff;stroke:#5a1d10;stroke-width:3}
+.small{font-size:15px;font-weight:700;fill:#0b6b94;stroke:#fff;stroke-width:4}
+.pinlbl{font-size:18px;font-weight:800;fill:#222;stroke:#fff;stroke-width:5}
+.beachtxt{font-size:30px;font-weight:800;fill:#a8823a;letter-spacing:6px}
+.hdr{fill:#14213d}.title{font-size:36px;font-weight:800;fill:#ffd23f;text-anchor:start;letter-spacing:5px}
+.sub{font-size:20px;fill:#cfd8e6;text-anchor:end}
+.legendbg{fill:#ffffff;opacity:.92}.leg{font-size:20px;fill:#222;text-anchor:start}
+.h{fill:none !important}.f{stroke:none !important}
+</style>
+<rect width="1600" height="1330" class="sea"/>
+<polygon points="116,238 249,227 209,650 191,1070 267,1114 81,1120 52,650" class="beach"/>
+<polygon points="203,209 522,230 870,203 1218,215 1508,198 1572,302 1554,650 1508,853 1392,998 1247,1070 870,1070 493,1085 267,1102 180,1056 191,650" class="land"/>
+<polyline points="1305,954 1247,911 870,917 841,830 841,722 725,722 615,722 615,476" class="path"/>
+<polyline points="841,722 841,476 841,360 1218,360 1450,360" class="path"/>
+<polyline points="1218,360 1218,650 1305,737 1508,737" class="path"/>
+<polyline points="870,722 1218,722" class="path"/>
+<polyline points="1218,650 1363,505 1508,505" class="path"/>
+<polyline points="508,708 615,722" class="path"/>
+<rect x="246" y="288" width="290" height="406" rx="14" class="park"/>
+<text x="392" y="490" dy="0.00em" class="area h">PARK</text>
+<text x="392" y="490" dy="0.00em" class="area f">PARK</text>
+<rect x="218" y="722" width="276" height="348" rx="14" class="park"/>
+<text x="354" y="896" dy="0.00em" class="area h">PARK</text>
+<text x="354" y="896" dy="0.00em" class="area f">PARK</text>
+<rect x="856" y="462" width="276" height="160" rx="10" class="lawn"/>
+<rect x="922" y="772" width="116" height="110" rx="18" class="lawn"/>
+<rect x="899" y="505" width="188" height="64" rx="10" class="pool"/>
+<text x="992" y="537" dy="0.00em" class="pooltxt h">ACTIVITY POOL</text>
+<text x="992" y="537" dy="0.00em" class="pooltxt f">ACTIVITY POOL</text>
+<rect x="1096" y="511" width="41" height="41" rx="6" class="pool"/>
+<text x="1116" y="490" dy="0.00em" class="small h">Aqua / Children Pool</text>
+<text x="1116" y="490" dy="0.00em" class="small f">Aqua / Children Pool</text>
+<ellipse cx="725" cy="810" rx="68" ry="40" class="pool"/>
+<text x="725" y="812" dy="0.00em" class="pooltxt h">MAIN POOL</text>
+<text x="725" y="812" dy="0.00em" class="pooltxt f">MAIN POOL</text>
+<circle cx="980" cy="827" r="30" class="pool"/>
+<rect x="1415" y="308" width="78" height="87" rx="10" class="pool"/>
+<text x="1453" y="351" dy="-0.57em" class="pooltxt h">RELAX</text>
+<text x="1453" y="351" dy="-0.57em" class="pooltxt f">RELAX</text>
+<text x="1453" y="351" dy="0.57em" class="pooltxt h">POOL</text>
+<text x="1453" y="351" dy="0.57em" class="pooltxt f">POOL</text>
+<rect x="536" y="490" width="72" height="203" rx="6" class="fac"/>
+<text x="571" y="592" dy="-0.57em" class="fact h">SNACK</text>
+<text x="571" y="592" dy="-0.57em" class="fact f">SNACK</text>
+<text x="571" y="592" dy="0.57em" class="fact h">BAR</text>
+<text x="571" y="592" dy="0.57em" class="fact f">BAR</text>
+<rect x="624" y="476" width="160" height="130" rx="6" class="fac"/>
+<text x="702" y="540" dy="0.00em" class="fact h">POOL BAR</text>
+<text x="702" y="540" dy="0.00em" class="fact f">POOL BAR</text>
+<rect x="624" y="621" width="81" height="72" rx="6" class="fac"/>
+<text x="664" y="656" dy="-0.57em" class="fact h">OLIVE</text>
+<text x="664" y="656" dy="-0.57em" class="fact f">OLIVE</text>
+<text x="664" y="656" dy="0.57em" class="fact h">GARDEN</text>
+<text x="664" y="656" dy="0.57em" class="fact f">GARDEN</text>
+<rect x="522" y="731" width="139" height="64" rx="6" class="fac"/>
+<text x="592" y="763" dy="-0.57em" class="fact h">NOA SHOP</text>
+<text x="592" y="763" dy="-0.57em" class="fact f">NOA SHOP</text>
+<text x="592" y="763" dy="0.57em" class="fact h">Kuaför · Bazaar</text>
+<text x="592" y="763" dy="0.57em" class="fact f">Kuaför · Bazaar</text>
+<rect x="551" y="859" width="128" height="41" rx="6" class="fac"/>
+<text x="615" y="879" dy="0.00em" class="fact h">RESTAURANT</text>
+<text x="615" y="879" dy="0.00em" class="fact f">RESTAURANT</text>
+<rect x="806" y="830" width="64" height="75" rx="6" class="fac"/>
+<text x="838" y="868" dy="-0.57em" class="fact h">TURKISH</text>
+<text x="838" y="868" dy="-0.57em" class="fact f">TURKISH</text>
+<text x="838" y="868" dy="0.57em" class="fact h">HAMAM</text>
+<text x="838" y="868" dy="0.57em" class="fact f">HAMAM</text>
+<rect x="713" y="659" width="46" height="44" rx="6" class="fac"/>
+<text x="737" y="679" dy="0.00em" class="fact h">STAGE</text>
+<text x="737" y="679" dy="0.00em" class="fact f">STAGE</text>
+<rect x="1262" y="273" width="125" height="72" rx="6" class="fac"/>
+<text x="1322" y="308" dy="-0.57em" class="fact h">TENNIS</text>
+<text x="1322" y="308" dy="-0.57em" class="fact f">TENNIS</text>
+<text x="1322" y="308" dy="0.57em" class="fact h">COURTS</text>
+<text x="1322" y="308" dy="0.57em" class="fact f">COURTS</text>
+<rect x="1102" y="290" width="93" height="41" rx="6" class="fac"/>
+<text x="1148" y="311" dy="0.00em" class="fact h">PLAYGROUND</text>
+<text x="1148" y="311" dy="0.00em" class="fact f">PLAYGROUND</text>
+<rect x="551" y="911" width="246" height="99" rx="6" class="lobby"/>
+<text x="673" y="946" dy="0.00em" class="fact h">MAIN &amp; TERAS · LOBBY</text>
+<text x="673" y="946" dy="0.00em" class="fact f">MAIN &amp; TERAS · LOBBY</text>
+<text x="673" y="984" dy="0.00em" class="num h">2101–2118</text>
+<text x="673" y="984" dy="0.00em" class="num f">2101–2118</text>
+<rect x="740" y="395" width="102" height="81" rx="4" class="room"/>
+<text x="790" y="435" dy="-1.15em" class="num h">5301–5304</text>
+<text x="790" y="435" dy="-1.15em" class="num f">5301–5304</text>
+<text x="790" y="435" dy="0.00em" class="num h">5201–5204</text>
+<text x="790" y="435" dy="0.00em" class="num f">5201–5204</text>
+<text x="790" y="435" dy="1.15em" class="num h">5101–5104</text>
+<text x="790" y="435" dy="1.15em" class="num f">5101–5104</text>
+<rect x="922" y="377" width="81" height="75" rx="4" class="room"/>
+<text x="963" y="415" dy="-0.57em" class="num h">5401–5405</text>
+<text x="963" y="415" dy="-0.57em" class="num f">5401–5405</text>
+<text x="963" y="415" dy="0.57em" class="num h">5301–5305</text>
+<text x="963" y="415" dy="0.57em" class="num f">5301–5305</text>
+<rect x="1015" y="377" width="87" height="75" rx="4" class="room"/>
+<text x="1058" y="415" dy="-0.57em" class="num h">4401–4405</text>
+<text x="1058" y="415" dy="-0.57em" class="num f">4401–4405</text>
+<text x="1058" y="415" dy="0.57em" class="num h">4301–4305</text>
+<text x="1058" y="415" dy="0.57em" class="num f">4301–4305</text>
+<rect x="768" y="644" width="72" height="52" rx="4" class="room"/>
+<text x="805" y="670" dy="-0.57em" class="num h">3301–3304</text>
+<text x="805" y="670" dy="-0.57em" class="num f">3301–3304</text>
+<text x="805" y="670" dy="0.57em" class="num h">3201–3204</text>
+<text x="805" y="670" dy="0.57em" class="num f">3201–3204</text>
+<rect x="914" y="644" width="93" height="52" rx="4" class="room"/>
+<text x="960" y="670" dy="-0.57em" class="num h">3701–3704</text>
+<text x="960" y="670" dy="-0.57em" class="num f">3701–3704</text>
+<text x="960" y="670" dy="0.57em" class="num h">3601–3604</text>
+<text x="960" y="670" dy="0.57em" class="num f">3601–3604</text>
+<rect x="1088" y="621" width="104" height="64" rx="4" class="room"/>
+<text x="1140" y="653" dy="-1.15em" class="num h">4601–4604</text>
+<text x="1140" y="653" dy="-1.15em" class="num f">4601–4604</text>
+<text x="1140" y="653" dy="0.00em" class="num h">4501–4504</text>
+<text x="1140" y="653" dy="0.00em" class="num f">4501–4504</text>
+<text x="1140" y="653" dy="1.15em" class="num h">4401–4404</text>
+<text x="1140" y="653" dy="1.15em" class="num f">4401–4404</text>
+<rect x="870" y="722" width="35" height="116" rx="4" class="room"/>
+<text x="887" y="780" dy="-0.57em" class="num h">1001–</text>
+<text x="887" y="780" dy="-0.57em" class="num f">1001–</text>
+<text x="887" y="780" dy="0.57em" class="num h">1004</text>
+<text x="887" y="780" dy="0.57em" class="num f">1004</text>
+<rect x="928" y="725" width="93" height="35" rx="4" class="room"/>
+<text x="974" y="743" dy="0.00em" class="num h">2301–2308</text>
+<text x="974" y="743" dy="0.00em" class="num f">2301–2308</text>
+<rect x="942" y="888" width="87" height="52" rx="4" class="room"/>
+<text x="986" y="914" dy="0.00em" class="num h">951–957</text>
+<text x="986" y="914" dy="0.00em" class="num f">951–957</text>
+<rect x="870" y="969" width="87" height="44" rx="4" class="room"/>
+<text x="914" y="991" dy="0.00em" class="num h">900s</text>
+<text x="914" y="991" dy="0.00em" class="num f">900s</text>
+<rect x="1406" y="427" width="75" height="52" rx="4" class="room"/>
+<text x="1444" y="453" dy="-0.57em" class="num h">711–716</text>
+<text x="1444" y="453" dy="-0.57em" class="num f">711–716</text>
+<text x="1444" y="453" dy="0.57em" class="num h">701–706</text>
+<text x="1444" y="453" dy="0.57em" class="num f">701–706</text>
+<rect x="1406" y="546" width="75" height="52" rx="4" class="room"/>
+<text x="1444" y="572" dy="-0.57em" class="num h">609–612</text>
+<text x="1444" y="572" dy="-0.57em" class="num f">609–612</text>
+<text x="1444" y="572" dy="0.57em" class="num h">601–604</text>
+<text x="1444" y="572" dy="0.57em" class="num f">601–604</text>
+<rect x="1218" y="691" width="75" height="52" rx="4" class="room"/>
+<text x="1256" y="717" dy="-0.57em" class="num h">211–214</text>
+<text x="1256" y="717" dy="-0.57em" class="num f">211–214</text>
+<text x="1256" y="717" dy="0.57em" class="num h">201–206</text>
+<text x="1256" y="717" dy="0.57em" class="num f">201–206</text>
+<rect x="1174" y="865" width="75" height="52" rx="4" class="room"/>
+<text x="1212" y="891" dy="-0.57em" class="num h">115–118</text>
+<text x="1212" y="891" dy="-0.57em" class="num f">115–118</text>
+<text x="1212" y="891" dy="0.57em" class="num h">101–106</text>
+<text x="1212" y="891" dy="0.57em" class="num f">101–106</text>
+<rect x="1154" y="372" width="41" height="70" rx="4" class="room"/>
+<rect x="1218" y="401" width="41" height="70" rx="4" class="room"/>
+<rect x="1288" y="430" width="41" height="70" rx="4" class="room"/>
+<rect x="1346" y="476" width="41" height="58" rx="4" class="room"/>
+<rect x="1317" y="548" width="41" height="58" rx="4" class="room"/>
+<rect x="1363" y="598" width="46" height="52" rx="4" class="room"/>
+<rect x="1270" y="580" width="41" height="58" rx="4" class="room"/>
+<rect x="1485" y="505" width="41" height="70" rx="4" class="room"/>
+<rect x="1508" y="609" width="41" height="70" rx="4" class="room"/>
+<rect x="1334" y="691" width="41" height="58" rx="4" class="room"/>
+<rect x="1427" y="679" width="52" height="52" rx="4" class="room"/>
+<rect x="1392" y="766" width="41" height="70" rx="4" class="room"/>
+<rect x="1334" y="795" width="41" height="58" rx="4" class="room"/>
+<rect x="1276" y="795" width="41" height="58" rx="4" class="room"/>
+<rect x="1450" y="795" width="41" height="58" rx="4" class="room"/>
+<rect x="1247" y="940" width="41" height="70" rx="4" class="room"/>
+<rect x="1146" y="940" width="41" height="58" rx="4" class="room"/>
+<rect x="1067" y="940" width="52" height="44" rx="4" class="room"/>
+<rect x="1102" y="743" width="41" height="87" rx="4" class="room"/>
+<rect x="1030" y="830" width="46" height="46" rx="4" class="room"/>
+<circle cx="508" cy="705" r="13" class="gate"/><text x="508" y="681" class="pinlbl h">SEA GATE</text><text x="508" y="681" class="pinlbl f">SEA GATE</text>
+<circle cx="1305" cy="954" r="13" class="gate"/><text x="1305" y="930" class="pinlbl h">ENTRANCE</text><text x="1305" y="930" class="pinlbl f">ENTRANCE</text>
+<circle cx="826" cy="360" r="13" class="staff"/><text x="826" y="336" class="pinlbl h">STAFF ONLY</text><text x="826" y="336" class="pinlbl f">STAFF ONLY</text>
+<circle cx="1436" cy="267" r="13" class="bar"/><text x="1436" y="243" class="pinlbl h">RELAX BAR</text><text x="1436" y="243" class="pinlbl f">RELAX BAR</text>
+<text x="87" y="679" dy="0.00em" class="beachtxt h">BEACH</text>
+<text x="87" y="679" dy="0.00em" class="beachtxt f">BEACH</text>
+<rect width="1600" height="70" class="hdr"/>
+<text x="30" y="46" class="title">NOA RESORT</text>
+<text x="1570" y="44" class="sub" text-anchor="end">MeshFest site map · approximate, not to scale</text>
+<g transform="translate(560,1145)">
+<rect width="1010" height="160" rx="18" class="legendbg"/>
+<rect x="30" y="30" width="40" height="26" rx="5" class="room"/><text x="85" y="50" class="leg">Rooms</text>
+<rect x="230" y="30" width="40" height="26" rx="5" class="fac"/><text x="285" y="50" class="leg">Bars &amp; facilities</text>
+<rect x="520" y="30" width="40" height="26" rx="5" class="pool"/><text x="575" y="50" class="leg">Pools</text>
+<rect x="720" y="30" width="40" height="26" rx="5" class="park"/><text x="775" y="50" class="leg">Parks / gardens</text>
+<circle cx="50" cy="105" r="13" class="gate"/><text x="85" y="113" class="leg">Gates / entrance</text>
+<circle cx="370" cy="105" r="13" class="staff"/><text x="405" y="113" class="leg">Staff only</text>
+<line x1="580" y1="105" x2="640" y2="105" class="path"/><text x="660" y="113" class="leg">Paths (approx.)</text>
+</g>
+</svg>

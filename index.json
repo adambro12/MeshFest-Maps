@@ -1,0 +1,11 @@
+{
+  "maps": [
+    {
+      "id": "noa-resort",
+      "name": "NOA Resort",
+      "updated": "2026-11-05",
+      "image": "noa-resort/map.png",
+      "spots": []
+    }
+  ]
+}
